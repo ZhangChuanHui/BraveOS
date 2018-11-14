@@ -1,0 +1,6 @@
+﻿{
+    "ReRoutes": [],
+    "GlobalConfiguration": {
+        "RequestIdKey": "tempId"
+    }
+}
